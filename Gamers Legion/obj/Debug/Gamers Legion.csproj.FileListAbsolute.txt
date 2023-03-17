@@ -1,0 +1,60 @@
+C:\Users\Alessandro\Desktop\Scuola\Quinta\TPS\Gamers Legion\Gamers Legion\bin\Debug\Gamers Legion.exe.config
+C:\Users\Alessandro\Desktop\Scuola\Quinta\TPS\Gamers Legion\Gamers Legion\bin\Debug\Gamers Legion.exe
+C:\Users\Alessandro\Desktop\Scuola\Quinta\TPS\Gamers Legion\Gamers Legion\bin\Debug\Gamers Legion.pdb
+C:\Users\Alessandro\Desktop\Scuola\Quinta\TPS\Gamers Legion\Gamers Legion\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Alessandro\Desktop\Scuola\Quinta\TPS\Gamers Legion\Gamers Legion\obj\Debug\Gamers Legion.csproj.AssemblyReference.cache
+C:\Users\Alessandro\Desktop\Scuola\Quinta\TPS\Gamers Legion\Gamers Legion\obj\Debug\Gamers Legion.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alessandro\Desktop\Scuola\Quinta\TPS\Gamers Legion\Gamers Legion\obj\Debug\Gamers_Legion.Properties.Resources.resources
+C:\Users\Alessandro\Desktop\Scuola\Quinta\TPS\Gamers Legion\Gamers Legion\obj\Debug\Gamers Legion.csproj.GenerateResource.cache
+C:\Users\Alessandro\Desktop\Scuola\Quinta\TPS\Gamers Legion\Gamers Legion\obj\Debug\Gamers Legion.csproj.CoreCompileInputs.cache
+C:\Users\Alessandro\Desktop\Scuola\Quinta\TPS\Gamers Legion\Gamers Legion\obj\Debug\Gamers Legion.csproj.CopyComplete
+C:\Users\Alessandro\Desktop\Scuola\Quinta\TPS\Gamers Legion\Gamers Legion\obj\Debug\Gamers Legion.exe
+C:\Users\Alessandro\Desktop\Scuola\Quinta\TPS\Gamers Legion\Gamers Legion\obj\Debug\Gamers Legion.pdb
+C:\Users\aleto\OneDrive\Desktop\Gamers Legion\Gamers Legion\obj\Debug\Gamers Legion.csproj.AssemblyReference.cache
+C:\Users\aleto\OneDrive\Desktop\Gamers Legion\Gamers Legion\obj\Debug\Gamers Legion.csproj.SuggestedBindingRedirects.cache
+C:\Users\aleto\OneDrive\Desktop\Gamers Legion\Gamers Legion\obj\Debug\Gamers_Legion.Properties.Resources.resources
+C:\Users\aleto\OneDrive\Desktop\Gamers Legion\Gamers Legion\obj\Debug\Gamers Legion.csproj.GenerateResource.cache
+C:\Users\aleto\OneDrive\Desktop\Gamers Legion\Gamers Legion\obj\Debug\Gamers Legion.csproj.CoreCompileInputs.cache
+C:\Users\aleto\OneDrive\Desktop\Gamers Legion\Gamers Legion\obj\Debug\Gamers Legion.exe
+C:\Users\aleto\OneDrive\Desktop\Gamers Legion\Gamers Legion\obj\Debug\Gamers Legion.pdb
+C:\Users\aleto\OneDrive\Desktop\Gamers Legion\Gamers Legion\bin\Debug\Gamers Legion.exe.config
+C:\Users\aleto\OneDrive\Desktop\Gamers Legion\Gamers Legion\bin\Debug\Gamers Legion.exe
+C:\Users\aleto\OneDrive\Desktop\Gamers Legion\Gamers Legion\bin\Debug\Gamers Legion.pdb
+C:\Users\aleto\OneDrive\Desktop\Gamers Legion\Gamers Legion\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\aleto\OneDrive\Desktop\Gamers Legion\Gamers Legion\obj\Debug\Gamers_Legion.FormIndex.resources
+C:\Users\aleto\OneDrive\Desktop\Gamers Legion\Gamers Legion\obj\Debug\Gamers Legion.csproj.CopyComplete
+C:\Users\aleto\OneDrive\Desktop\Gamers Legion\Gamers Legion\bin\Debug\Newtonsoft.Json.dll
+C:\Users\aleto\OneDrive\Desktop\Gamers Legion\Gamers Legion\bin\Debug\Newtonsoft.Json.xml
+C:\Users\aleto\OneDrive\Desktop\Gamers Legion\Gamers Legion\obj\Debug\Gamers_Legion.Forms.FormSearch.resources
+C:\Users\Alessandro\Desktop\Scuola\Quinta\TPS\Gamers Legion\Gamers Legion\bin\Debug\IGDB.dll
+C:\Users\Alessandro\Desktop\Scuola\Quinta\TPS\Gamers Legion\Gamers Legion\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Alessandro\Desktop\Scuola\Quinta\TPS\Gamers Legion\Gamers Legion\bin\Debug\RestEase.dll
+C:\Users\Alessandro\Desktop\Scuola\Quinta\TPS\Gamers Legion\Gamers Legion\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Alessandro\Desktop\Scuola\Quinta\TPS\Gamers Legion\Gamers Legion\bin\Debug\RestEase.xml
+C:\Users\Alessandro\Desktop\Scuola\Quinta\TPS\Gamers Legion\Gamers Legion\obj\Debug\Gamers_Legion.FormIndex.resources
+C:\Users\Alessandro\Desktop\Scuola\Quinta\TPS\Gamers Legion\Gamers Legion\obj\Debug\Gamers_Legion.Forms.FormSearch.resources
+C:\Users\Alessandro\Desktop\Scuola\Quinta\TPS\Gamers Legion\Gamers Legion\obj\Debug\Gamers_Legion.Forms.FormFindTheGame.resources
+C:\Users\tommasi.18193\Desktop\Gamers Legion\Gamers Legion\obj\Debug\Gamers Legion.csproj.AssemblyReference.cache
+C:\Users\tommasi.18193\Desktop\Gamers Legion\Gamers Legion\obj\Debug\Gamers Legion.csproj.SuggestedBindingRedirects.cache
+C:\Users\tommasi.18193\Desktop\Gamers Legion\Gamers Legion\obj\Debug\Gamers Legion.exe
+C:\Users\tommasi.18193\Desktop\Gamers Legion\Gamers Legion\obj\Debug\Gamers Legion.pdb
+C:\Users\tommasi.18193\Desktop\Gamers Legion\Gamers Legion\bin\Debug\Gamers Legion.exe.config
+C:\Users\tommasi.18193\Desktop\Gamers Legion\Gamers Legion\bin\Debug\Gamers Legion.exe
+C:\Users\tommasi.18193\Desktop\Gamers Legion\Gamers Legion\bin\Debug\Gamers Legion.pdb
+C:\Users\tommasi.18193\Desktop\Gamers Legion\Gamers Legion\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\tommasi.18193\Desktop\Gamers Legion\Gamers Legion\bin\Debug\IGDB.dll
+C:\Users\tommasi.18193\Desktop\Gamers Legion\Gamers Legion\bin\Debug\Newtonsoft.Json.dll
+C:\Users\tommasi.18193\Desktop\Gamers Legion\Gamers Legion\bin\Debug\RestEase.dll
+C:\Users\tommasi.18193\Desktop\Gamers Legion\Gamers Legion\bin\Debug\Newtonsoft.Json.xml
+C:\Users\tommasi.18193\Desktop\Gamers Legion\Gamers Legion\bin\Debug\RestEase.xml
+C:\Users\tommasi.18193\Desktop\Gamers Legion\Gamers Legion\obj\Debug\Gamers_Legion.Forms.FormFindTheGame.resources
+C:\Users\tommasi.18193\Desktop\Gamers Legion\Gamers Legion\obj\Debug\Gamers_Legion.FormIndex.resources
+C:\Users\tommasi.18193\Desktop\Gamers Legion\Gamers Legion\obj\Debug\Gamers_Legion.Forms.FormSearch.resources
+C:\Users\tommasi.18193\Desktop\Gamers Legion\Gamers Legion\obj\Debug\Gamers_Legion.Properties.Resources.resources
+C:\Users\tommasi.18193\Desktop\Gamers Legion\Gamers Legion\obj\Debug\Gamers Legion.csproj.GenerateResource.cache
+C:\Users\tommasi.18193\Desktop\Gamers Legion\Gamers Legion\obj\Debug\Gamers Legion.csproj.CoreCompileInputs.cache
+C:\Users\tommasi.18193\Desktop\Gamers Legion\Gamers Legion\obj\Debug\Gamers Legion.csproj.CopyComplete
+C:\Users\aleto\OneDrive\Desktop\Gamers Legion\Gamers Legion\bin\Debug\IGDB.dll
+C:\Users\aleto\OneDrive\Desktop\Gamers Legion\Gamers Legion\bin\Debug\RestEase.dll
+C:\Users\aleto\OneDrive\Desktop\Gamers Legion\Gamers Legion\bin\Debug\RestEase.xml
+C:\Users\aleto\OneDrive\Desktop\Gamers Legion\Gamers Legion\obj\Debug\Gamers_Legion.Forms.FormFindTheGame.resources
